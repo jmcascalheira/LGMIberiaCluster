@@ -1,0 +1,362 @@
+﻿Site,Level,Lab. Reference,Age,Standard Deviation,Sample type,Method,Phase attribution,Region,Reference,Accepted,Notes
+El Palomar,3,Beta-185409,21560,110,Bone,AMS,Gravettian,Mediterranean,Peña 2013,Yes,"Although an interior site, El Palomar is more ecologically better understood as a Mediterraean site."
+Las Delicias,II-3b,MAD-5566SDA,12028,794,Sediment,OSL,Solutrean,Central Iberia,Alcaraz-Castaño et al. 2017,Yes,
+Gato 2,II,GrA-42226,17700,70,Bone,AMS,Archaic Magdalenian,Central Iberia,"Blasco and Rodanés, 2009; Utrilla et al. 2012",Yes,"The youngest dates (17,7 and 18,0) are preferred (see Utrilla et al. 2010, 2012)"
+Maltravieso,A,Poz-30469,17840,90,Charcoal,AMS,Solutrean or early Magdalenian ?,Central Iberia,Canals et al. 2010,Yes,
+Maltravieso,A,Poz-30460,17930,100,Charcoal,AMS,Solutrean or early Magdalenian ?,Central Iberia,Canals et al. 2010,Yes,
+Gato 2,II,GrA-30683,18090,90,Charcoal,AMS,Archaic Magdalenian,Central Iberia,"Blasco and Rodanés, 2009; Utrilla et al. 2012",Yes,
+Las Delicias,I-IIb,MAD-5585SDA,18175,1333,Sediment,OSL,Solutrean,Central Iberia,Alcaraz-Castaño et al. 2017,Yes,"OSL dates for Las Delicias must be considered minimum ages, especially for II-3B (see Alcaraz-Castaño et al. 2017 for discussion)"
+Gato 2,II,GrA-22503,18260,130,Charcoal,AMS,Archaic Magdalenian,Central Iberia,"Blasco and Rodanés, 2004; Utrilla et al. 2012",Yes,
+Gato 2,II,GrA-22505,18650,140,Charcoal,AMS,Archaic Magdalenian,Central Iberia,"Blasco and Rodanés, 2004; Utrilla et al. 2012",Yes,
+Gato 2,II,GrA-30684,18850,100,Charcoal,AMS,Archaic Magdalenian,Central Iberia,"Blasco and Rodanés, 2004; Utrilla et al. 2012",Yes,
+Peña Capón,II,Beta-246880,19930,110,Tooth,AMS,Solutrean,Central Iberia,Alcaraz-Castaño et al. 2013,Yes,
+Peña Capón,III,Beta - 246879,19980,110,Tooth,AMS,Proto-Solutrean,Central Iberia,Alcaraz-Castaño et al. 2013,Yes,
+Peña Capón,2a,COL4214.1.1,19987,110,Bone,AMS,Solutrean,Central Iberia,Alcaraz-Castaño et al. in press,Yes,Cut marked bone
+Peña Capón,1 base,COL4210.1.1,20008,112,Charcoal,AMS,Solutrean,Central Iberia,Alcaraz-Castaño et al. in press,Yes,
+Peña Capón,II,COL4223.1.1,20024,108,Bone,AMS,Solutrean,Central Iberia,Alcaraz-Castaño et al. in press,Yes,Cut marked bone
+Peña Capón,2a,COL4213.1.1,20107,111,Charcoal,AMS,Solutrean,Central Iberia,Alcaraz-Castaño et al. in press,Yes,
+Peña Capón,2a,COL4215.1.1,20261,111,Bone,AMS,Solutrean,Central Iberia,Alcaraz-Castaño et al. in press,Yes,Cut marked bone
+Peña Capón,2a,COL4212.1.1,20278,107,Charcoal,AMS,Solutrean,Central Iberia,Alcaraz-Castaño et al. in press,Yes,
+Cardina I,C4 base,,20700,1300,Sediment,TL,Gravettian,Central Iberia,Bicho et al. 2015,No,
+Abric Romani,A (layer 2),NZA-1818,23160,490,charcoal,Standard C14,Aurignacian,Mediterranean,"Canal i Roquet, et al.1989",No,SD / Anomalus
+Balma de la Griera,III,GrA-6486,16890,200,Bone,AMS,,Mediterranean,Garcia Diez M. & Cebria I Escuer A. 2003. Zephyrus 56: 39-48.,No,No context
+Balma de la Griera,,AA-8649,21255,350,bone,AMS,Gravet /Proto-Solutr,Mediterranean,"Fullola et al., 1984",No,SD
+Balma de la Griera,,AA-8649,21255,350,bone,AMS,Gravet /Proto-Solutr,Mediterranean,"Fullola et al., 1984",No,SD
+Chaves,C1,GrN-12681,19700,310,Charcoal,AMS,Solutrense,Mediterranean,"Utrilla, 1992",Yes,
+Cova Gran de Santa Linya,EA-3,Beta-233606,16800,80,Charcoal,AMS,Magdaleniense A?,Mediterranean,Mora R. e.a. 2011.,Yes,No atribución
+Cova Gran de Santa Linya,S1E,Beta-195429,19500,90,Sediment,AMS,EUP?,Mediterranean,Mora R. e.a. 2011.,Yes,No atribución
+Cova Gran de Santa Linya,497A,Beta-207576,21690,120,Shell,AMS,EUP?,Mediterranean,Mora R. e.a. 2011.,Yes,No atribución
+Cova Gran de Santa Linya,497A,OxA-19262,24600,110,Shell,AMS,EUP?,Mediterranean,Mora R. e.a. 2011.,Yes,
+Fuente del Trucho,LBB-UA1,Beta-72393,19060,80,Bone,AMS,"?Mousterian,",Mediterranean,"Utrilla, et al., 2007",No,Anomalus
+Fuente del Trucho,reworked,GrA-29915,20800,100,Charcoal,AMS,No context,Mediterranean,Montes L. e.a. 2008.,No,Anómalus
+L'Arbreda,,Gif-6418,17320,290,charcoal,Standard C14,Solutrense,Mediterranean,"Delibrias et al., 1987",Yes,
+L'Arbreda,"m, 3.25-3.5",Gif-6419,17720,290,charcoal,Standard C14,Solutrense,Mediterranean,"Delibrias et al., 1987",Yes,
+L'Arbreda,0.38 - 0.395m,Gif-6420,20130,220,charcoal,Standard C14,Gravetiense,Mediterranean,"Delibrias et al., 1987",Yes,
+L'Arbreda,E,OxA-21669,25780,210,Bone,AMS,Gravetiense,Mediterranean,Mora R. e.a. 2011.,Yes,No atribución
+L'Arbreda,-5.05-5.4m [Level H?],Gif-6422,25830,400,Charcoal,Standard C14,Archaic Aurignacian,Mediterranean,"Canal i Roquet, J., & Carbonell i Roura, E. [et al.] 1989 (Catalunya Paleolitica; Patronat Francesc Eiximenis, Gerona: 322-34);",No,SD / Anomalus
+L'Arbreda,G (-4.85-4.95),Gif-6421,22590,290,Charcoal?,Standard C14,Evolved Aurignacian,Mediterranean,Maroto J. e.a. 2012,No,
+Montlleó,IV.Sect B,OxA-X-2234-52,16900,110,Tooth,AMS,Magdaleniense A,Mediterranean,"J. Fullola i Pericot, 2001",Yes,
+Montlleó,I. Sect A,OxA-23973,18680,80,Charcoal,AMS,Solutrense / Badeguliense,Mediterranean,"J. Fullola i Pericot, 2001",Yes,
+Reclau Viver,4.20-40,M-1020,16200,500,,Standard C14,Aurignacian,Mediterranean,,No,SD / Anomalus
+Reclau viver,4.60-80,M-1015,16560,600,,Standard C14,Aurignacian,Mediterranean,,No,SD / Anomalus
+Reclau Viver,4.80-5,M-1016,18700,800,,Standard C14,Aurignacian,Mediterranean,,No,SD / Anomalus
+Roc de la Melca,,MC-2219,20900,400,bone,Standard C14,Gravetiense,Mediterranean,"Soler, 1979-80",No,SD
+"Ambrosio, Cueva de",IICapa4,GifA-II.4,19110,90,Charcoal,AMS,Solutrense / SG,Mediterranean,"Ripoll et al., 2004",Yes,
+"Ambrosio, Cueva de",IICapa2,GifA-II.2,19170,190,Charcoal,AMS,Solutrense / SG,Mediterranean,"Ripoll et al., 2004",Yes,
+"Ambrosio, Cueva de",II genérico,Gif-9883,19250,70,Charcoal,Standard C14,Solutrense / SG,Mediterranean,"Ripoll et al., 2004",Yes,
+"Ambrosio, Cueva de",II.6,GifA-II.6,19300,190,Charcoal,AMS,Solutrense / SG,Mediterranean,"Ripoll et al., 2004",Yes,
+"Ambrosio, Cueva de",II.1,GifA-95577,19950,210,Charcoal,AMS,Solutrense / SG,Mediterranean,"Ripoll et al., 2004",Yes,
+"Ambrosio, Cueva de",II-1,GifA-95576,20150,200,Charcoal,AMS,Solutrense / SG,Mediterranean,"Ripoll et al., 2004",Yes,
+"Ambrosio, Cueva de",IV,Gif-9884,21520,120,Charcoal,Standard C14,Solutrense (sup),Mediterranean,"Ripoll et al., 2004",Yes,
+Ardales,Z2..14,COL-1639.1.1,19239,126,Charcoal,AMS,Solutrense?,Mediterranean,"Ramos et al., 2019",Yes,
+Bajondillo/ 9,Bj 9,,1990,480,Charcoal,AMS?,,Mediterranean,"Cortés Sánchez, 2007",No,SD
+Barranc de l'Infern,,,17800,290,Charcoal,Standard C14,Solutrense / Magdaleniense A?,Mediterranean,Cacho & Ripoll 1990,No,No context
+Beneito,II (ext),Ua-32243,16180,140,Bone,AMS,Badeguliense? / Solutrense?,Mediterranean,"Domenech et al., 2012",Yes,
+Beneito,IV (ext),Ua-32244,18275,175,Bone,AMS,Solutrense,Mediterranean,"Domenech et al., 2012",Yes,
+Beneito,B2,,16560,480,,Standard C14,Solutrense superior /SG,Mediterranean,"Iturbe y Cortell, 1987",No,Anomalous
+Beneito,D1,,25750,410,Charcoal,Standard C14,EUP,Mediterranean,"Iturbe y Cortell, 1987",No,SD
+"Cariguela, Carihuela","III-I, (V?)",,25850,280,,Standard C14,No context,Mediterranean,"Carrión et al., 1998",No,No Context
+Carihuela,"III-I, (V?)",,21430,200,Charcoal,Standard C14,Gravetiense,Mediterranean,"Carrión et al., 1998",No,Anomalous
+Cendres,XIIB,Beta-287541,16030,60,Charcoal,AMS,Magdaleniense A,Mediterranean,"Villaverde et al., 2012",Yes,
+Cendres,Borrow (XVI),Beta-287547,16460,60,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde y Román, 2013",Yes,
+Cendres,XIII M8,Beta-287542,16790,60,Charcoal,Standard C14,"Solutrense
+
+",Mediterranean,"Martínez-Alfaro et al., 2019",Yes,
+Cendres,XIII M9,Beta-287543,17210,60,Charcoal,Standard C14,"Solutrense
+
+",Mediterranean,"Martínez-Alfaro et al., 2019",Yes,
+Cendres,XIII 62,Beta-118024,17230,130,Charcoal,Standard C14,"Solutrense
+
+",Mediterranean,"Martínez-Alfaro et al., 2019",Yes,
+Cendres,XIII 67,Beta-118027,18750,130,Charcoal,Standard C14,"Solutrense
+
+",Mediterranean,"Martínez-Alfaro et al., 2019",Yes,
+Cendres,XIII 65,Beta-118026,18920,180,Charcoal,Standard C14,Solutrense,Mediterranean,"Martínez-Alfaro et al., 2019",Yes,
+Cendres,XIV-XV,Beta-287546,20800,110,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XV,Beta-142282,21230,80,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XVIa,Beta-295848,21880,100,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XV,Beta-437194,22190,80,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XVIA,Beta-437195,22750,110,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XVIA,Beta-303419,23350,100,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XVIa,Beta-287549,23860,100,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XVIa,Beta-287548,23920,100,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XVIA,Beta-158014,24080,150,Charcoal,AMS,Gravtiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XVIA,Beta 155606,24080,150,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XVIA,Beta 142283,24240,220,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XVIC,Beta 437823,25590,100,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Cendres,XVIC,Beta 189078,25850,260,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde et al, 2017",Yes,
+Comte,SU1002,Beta-413716,24010,90,Charcoal,AMS,Gravetiense,Mediterranean,"Casabó et al., 2017",Yes,
+Comte,SU1001,Beta-413715,25050,100,Charcoal,AMS,Gravetiense,Mediterranean,"Casabó et al., 2017",Yes,
+Cueva de Barriada,A EC-1,Beta-29622,22750,110,Charcoal,AMS,Gravetiense,Mediterranean,Fdz.López de Pablo et al. 2014,Yes,
+Cueva de Barriada,B EC-2,Beta-296223,25260,120,charcoal,AMS,Gravetiense,Mediterranean,Fdz.López de Pablo et al. 2014,Yes,
+El Niño,,,22780,190,Charcoal,AMS,Gravetiense,Mediterranean,,No,No contex
+Finca Doña Martina,4. HE-37,VERA-6171HS,18320,100,Charcoal,AMS,Solutrense (superior),Mediterranean,"Zilhao et al., 2017",Yes,
+Finca Doña Martina,4. HE-38,VERA-5101a,18690,80,Charcoal,AMS,Solutrense (superior),Mediterranean,"Zilhao et al., 2017",Yes,
+Finca Doña Martina,"4. H6-38
+
+",VERA-5101bHS,19180,90,Charcoal,AMS,Solutrense (superior),Mediterranean,"Zilhao et al., 2017",Yes,
+Foradada Xàbia,"Sector II, n II",Beta-167653,20620,80,Bone,AMS,Solutrense?,Mediterranean,"Casabó, 2014",Yes,
+Gorham's Cave,Level III-B,Beta-181893,16420,120,Charcoal,AMS,Solutrense (superior),Mediterranean,Finlayson C. e.a. 2000.,Yes,
+Gorham's Cave,Level III,Beta-184042,18440,160,Charcoal,AMS,Magdaleniense A?,Mediterranean,"Zilhao et al., 2017",Yes,
+Gorham's Cave,Context 19,,23800,600,Charcoal,AMS,EUP?,Mediterranean,"Finlayson C. e.a. 2000. In Stringer C. e.a. (ed.) Neanderthals on the Edge, Oxbow Books: 139-154. https://www.nespos.org/display/PublicNesposSpace/Zafarraya+-+AMS+%28OxA-7114%29",No,SD
+Gorham's Cave,Context 7,,25680,280,Bone,AMS,EUP,Mediterranean,"Finlayson et al., 2006",No,No context
+Higueral de Valleja,IV,,18300,80,Charcoal,AMS,Gravetiense,Mediterranean,"Jennings et al., 2009",No,No context
+La Boja,OH5,VERA-5788,16580,70,Charcoal,AMS,Solutrense /SG,Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH6,VERA-5364-a,16990,70,Charcoal,AMS,Solutrense /SG,Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH6,VERA-5364-b,17430,70,Charcoal,AMS,Solutrense /SG,Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH7,VERA-5365-2,19240,90,Charcoal,AMS,Solutrense (superior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH7,VERA-5365,19390,100,Charcoal,AMS,Solutrense (superior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH7,VERA-5365_av,19390,100,Charcoal,AMS,Solutrense (superior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH9,VERA-6081ABOx,20350,90,Charcoal,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH9,VERA-6081_av,20395,64,Charcoal,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH9,VERA-6081,20440,90,Charcoal,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH11,VERA-6152HS,20457,105,Humic acids,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH9,VERA-5850,20580,100,Charcoal,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH10,VERA-5366HS,20640,110,Humic acids,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH11,VERA-5851_av,20670,74,Charcoal,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH11,VERA-5851_2,20720,100,Charcoal,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH11,VERA-6152,20754,105,Charcoal,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH10,VERA-5366,20830,110,Charcoal,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH10,VERA-5366_av,20898,81,Charcoal,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH11,VERA-5213,20980,110,Charcoal,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH11,VERA-5213HS,21060,110,Humic acids,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",Yes,
+La Boja,OH11 burrow,,20610,110,,AMS,Solutrense (inferior),Mediterranean,"Zilhao et al., 2017",No,Anomalous
+Malladetes,II,KN-1/915,19370,105,Charcoal,,Solutrense,Mediterranean,"Fortea & Jordá, 1976",Yes,
+Malladetes,12 from sector E,Beta 155607,25120,240,Charcoal,AMS,Gravetiense,Mediterranean,"Villaverde y Román, 2004",Yes,
+Malladetes,III,,16300,1500,Charcoal,Standard C14,SG?,Mediterranean,"Fortea & Jordá, 1976",No,Anomalous
+Malladetes,V a,,20140,800,bone,Standard C14,Solutrense medio,Mediterranean,"Fortea & Jordá, 1976",No,SD
+Malladetes,2-VI,,21710,650,Charcoal,AMS,Solutrense inferior,Mediterranean,"Fortea & Jordá, 1976",No,SD
+Moliners,IV,Beta-438707,23780,110,Charcoal,AMS,Gravetiense,Mediterranean,"Miret et al., 2017",Yes,
+Nerja,(Concav 15),,20980,140,Charcoal,AMS,Iluminación Arte,Mediterranean,"Medina et al., 2010",No,Iluminación
+Nerja,(111 - 156),,24130,140,Charcoal,AMS,Iluminación Arte,Mediterranean,"Medina et al., 2010",No,Iluminación
+Nerja (220),220,,20980,140,Charcoal,AMS,Iluminación Arte,Mediterranean,"Medina et al., 2010",No,Iluminación
+Nerja Galerias Altas,Ciervo pintado en negro,,19900,210,Charcoal,AMS,Solutrense medio,Mediterranean,"Sanchidrián et al., 2001",No,Palaeolithic Art
+Nerja Torca,"Strato VI, Nivel 8",,16520,540,bone,Standard C14,EUP,Mediterranean,"Pellicer y Acosta, 1997",No,Anomalous
+Nerja Vestibulo,NV 8c (hogar),UBAR-98,17940,200,Charcoal,Standard C14,Solutrense (superior),Mediterranean,"Jordá y Aura, 2008",Yes,
+Nerja Vestibulo,"NV 8 (A7, 8-c)",Beta-362535,18440,70,Charcoal,AMS,Solutrense (hogar),Mediterranean,"Aura & Jordá, 2012",Yes,
+Nerja Vestibulo,9 (C4 VIII),GifA-102021,21140,190,Charcoal,AMS,Solutrense,Mediterranean,"Aura et al., 2006",Yes,
+Nerja Vestibulo,NV 13 (XII),Beta-189080,24200,200,Charcoal,AMS,Gravetiense,Mediterranean,"Jordá y Aura, 2008",Yes,
+Nerja Vestibulo,NV13c,Beta-131576,24480,110,Charcoal,AMS,Gravetiense,Mediterranean,"Jordá y Aura, 2008",Yes,
+Nerja Vestibulo,NV 11 (X),GifA-102.023,24730,250,Charcoal,AMS,Gravetiense,Mediterranean,"Jordá y Aura, 2008",Yes,
+Nerja Vestibulo,NV 13a+b,,21760,970,Charcoal,Standard C14,Gravetiense,Mediterranean,"Jordá y Aura, 2008",No,SD
+Nerja Vestibulo,NV 13c,,24300,1400,Charcoal,Standard C14,Gravetiense,Mediterranean,"Jordá y Aura, 2008",No,SD
+Nerja Vestíbulo,NV 12a,,23400,2300,Charcoal,Standard C14,Gravetiense,Mediterranean,"Jordá y Aura, 2008",No,SD
+Nerja Vestíbulo,NV 12b,,25600,4800,Charcoal,Standard C14,Gravetiense,Mediterranean,"Jordá y Aura, 2008",No,SD
+Parpallo,PT-11,OxA-26343,18520,100,Bone,AMS,Badeguliense,Mediterranean,"Aura et al., 2012",Yes,
+Parpallo,PT -12,OxA-26344,18560,100,Bone,AMS,Solutrense,Mediterranean,"Aura et al., 2012",Yes,
+Parpallo,PT-11,OxA-26342,18640,100,Bone,AMS,Badeguliense,Mediterranean,"Aura et al., 2012",Yes,
+Parpallo,PT-16,OxA-22651,19020,100,Bone,AMS,Solutrense,Mediterranean,"Aura et al., 2012",Yes,
+Parpallo,PT- 20,OxA-22890,19690,110,Bone,AMS,Solutrense,Mediterranean,"Aura et al., 2012",Yes,
+Parpallo,6.5 -7.5m,,20170,380,Bone,Standard C14,Solutrense,Mediterranean,"Bofinger & Davidson, 1977",No,SD
+Parpallo,6.5- 7m,,20490,900,Bone,Standard C14,Solutrense inferior,Mediterranean,"Bofinger & Davidson, 1977",No,SD
+Parpalló,4.0-4.25,Birm-521,17896,340,Bone,Standard C14,Solutrense superior,Mediterranean,"Bofinger & Davidson, 1977",Yes,
+Parpalló,PT-11,OxA-22629,18510,100,Bone,AMS,Badeguliense,Mediterranean,"Aura et al., 2012",Yes,
+Pileta,,,20130,460,,Standard C14,Palaeolithic art,Mediterranean,"Sanchidrián et al., 2001",No,Palaeolithic Art
+Ratlla del Bubo,II (hogar),Ly-5219,17360,180,Charcoal,Standard C14,Solutrense /SG,Mediterranean,"Soler Mayor et al., 1990",Yes,
+"Santa Maira, CG",CG II-12a,Beta-317412,19910,100,Charcoal,AMS,Solutrense (superior),Mediterranean,"Aura & Jordá, 2013",Yes,
+"Santa Maira, CG",CG II-9,,17130,80,Charcoal,AMS,Cuon alpinus,Mediterranean,"Pérez Ripoll et al., 2013",No,No context
+Xemeneia,,NA,18950,44,Charcoal,AMS,Solutrense superior,Mediterranean,,Yes,
+"Zafarraya, Boquete","168M, Nivel D, Conjunto Ic, Unidad UD22",,18094,280,,,Solutrense,Mediterranean,,No,No context
+"Zafarraya, Boquete",,,18920,120,,Standard C14?,Solutrense,Mediterranean,,No,No context
+"Zafarraya, Boquete",121m (UC7) P9 n° 16,,18980,280,,Standard C14?,Solutrense,Mediterranean,,No,No context
+Gato Preto,C,,4940,640,Burnt chert,TL,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,No,
+Gato Preto,C,,5100,600,Burnt chert,TL,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,No,
+Terra do Manuel,2,,7300,700,Burnt chert,TL,Proto-Solutrean,Portugal,Zilhão 1997,No,
+Vale Boi,Slope 2,AA-63307,11840,280,Charcoal,AMS,Solutrean,Portugal,Cascalheira et al. 2012,No,
+Terra do Manuel,2,,15700,1700,Burnt chert,TL,Proto-Solutrean,Portugal,Zilhão 1997,No,
+CPM,7,ICEN-542,15820,400,Charcoal,Standard,Magdalenian,Portugal,Bicho and Haws 2012,Yes,
+CPM II,Inferior,ICEN-821,16080,350,Charcoal,Standard C14,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,No,
+CPM,5,Wk-3126,16180,290,Charcoal,MAS,Magdalenian,Portugal,Bicho and Haws 2012,Yes,
+Lapa do Picareiro,O,UGAMS-23724,16280,40,Charcoal,AMS,Solutrean,Portugal,Haws et al. 2019,Yes,
+CPM,7,SMU-2015,16340,420,Charcoal,Standard,Magdalenian,Portugal,Bicho and Haws 2012,Yes,
+Lapa do Picareiro,N,Wk-16417,16389,111,Bone,AMS,Solutrean,Portugal,Haws et al. 2019,Yes,
+Terra do Manuel,2,,16400,1800,Burnt chert,TL,Proto-Solutrean,Portugal,Zilhão 1997,No,
+Lapa do Picareiro,O,Beta-247965,17480,100,Charcoal,AMS,Solutrean,Portugal,Haws et al. 2019,Yes,
+CPM IIIS,Inferior,SMU-2633,17515,270,Charcoal,Standard C14,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,No,
+Lapa do Picareiro,O,UGAMS-24606,17570,45,Charcoal,AMS,Solutrean,Portugal,Haws et al. 2019,Yes,
+Vale Boi,Slope 2,Wk-12132,17634,110,Bone,AMS,Solutrean,Portugal,Cascalheira et al. 2012,Yes,
+Salemas,,ICEN-367,17770,420,,Standard C14,Solutrean,Portugal,"Córchon and Cardoso, 2005",Yes,
+Buraca Grande,9,Gif-9502,17850,200,Charcoal,AMS,Solutrean,Portugal,Zilhão 1997,Yes,
+Vale Boi,Slope 2,Wk-12131,18410,165,Bone,AMS,Solutrean,Portugal,Cascalheira et al. 2012,Yes,Minimum Age
+Pego do Diabo,3,ICEN-491,18630,640,Bone,Standard,Gravettian,Portugal,Bicho et al. 2015,No,
+Caldeirão,Fc,OxA-2510,18840,200,Bone,AMS,Solutrean,Portugal,Zilhão 1997,Yes,
+Vale Boi,Rockshelter B6,Wk-17840,18859,90,Charcoal,AMS,Solutrean,Portugal,Cascalheira et al. 2012,Yes,
+Lapa do Picareiro,S,UGAMS-23720,18930,50,Charcoal,AMS,Solutrean,Portugal,Haws et al. 2019,Yes,
+Lapa do Picareiro,T,Wk-37655,18957,79,Bone,AMS,Proto-Solutrean,Portugal,Haws et al. 2019,Yes,
+CPM II,Inferior,ICEN-692,19030,440,Charcoal,Standard C14,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,No,
+Lapa do Picareiro,R,UGAMS-23719,19090,50,Charcoal,AMS,Solutrean,Portugal,Haws et al. 2019,Yes,
+Lapa do Picareiro,R,UGAMS-03415,19100,70,Charcoal,AMS,Solutrean,Portugal,Haws et al. 2019,Yes,
+CPM IIIS,Inferior,ICEN-691,19220,280,Charcoal,Standard C14,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,No,
+Salemas,,ICEN-385,19220,300,,Standard C14,Solutrean,Portugal,"Córchon and Cardoso, 2005",Yes,
+Lapa do Picareiro,S,Beta-234371,19290,80,Charcoal,AMS,Solutrean,Portugal,Haws et al. 2019,Yes,
+Lapa do Picareiro,T,UGAMS-23727,19530,50,Charcoal,AMS,Proto-Solutrean,Portugal,Haws et al. 2019,Yes,
+Vale Boi,Rockshelter C1,Wk-24765,19533,92,Charcoal,AMS,Solutrean,Portugal,Cascalheira et al. 2012,Yes,
+Caldeirão,H,OxA-1939,19900,260,Bone,AMS,Solutrean,Portugal,Zilhão 1997,Yes,
+Abrigo do Alecrim,6,Beta-203513,19940,180,Bone,AMS,Proto-Solutrean,Portugal,Pereira 2011,Yes,
+Vale Almoinha,5 (AIII),OxA-5676,19940,180,Charcoal,AMS,Solutrean,Portugal,Zilhão 1997,Yes,
+Lagar Velho,9,OxA-8419,20200,180,Charcoal,AMS,Solutrean,Portugal,Zilhão and Trinkaus 2002,Yes,
+Lagar Velho,9,OxA-8419,20220,180,Charcoal,AMS,Solutrean,Portugal,"Zilhão and Trinkaus, 2002",Yes,
+Lapa do Picareiro,T,UGAMS-23718,20240,50,Charcoal,AMS,Proto-Solutrean,Portugal,Haws et al. 2019,Yes,
+Lapa do Picareiro,T4,Beta-208221,20240,110,Charcoal,AMS,Proto-Solutrean,Portugal,Haws et al. 2019,Yes,
+Salemas,V.S.,ICEN-376,20250,320,Bone,Standard C14,Solutrean,Portugal,Zilhão 1997,?,
+Lapa do Picareiro,T,UGAMS-23725,20320,50,Charcoal,AMS,Proto-Solutrean,Portugal,Haws et al. 2019,Yes,
+Vale Boi,Terrace 5,Wk-42831,20329,90,Shell,AMS,Proto-Solutrean,Portugal,Cascalheira et al. 2012,Yes,
+Vale Boi,Rockshelter B1,Wk-31088,20340,160,Shell,AMS,Solutrean,Portugal,Cascalheira et al. 2012,Yes,Calcite
+Vale Almoinha,5 (AIII),ICEN-71,20380,150,Charcoal,Standard C14,Solutrean,Portugal,Zilhão 1997,Yes,
+Caldeirão,Fa Topo,OxA-1938,20400,270,Bone,AMS,Solutrean,Portugal,Zilhão 1997,No,
+CPM,7,,20400,2300,Burnt chert,TL,Magdalenian,Portugal,Bicho and Haws 2012,Yes,
+Abrigo do Alecrim,6,WK-25514,20510,150,Bone,AMS,Proto-Solutrean,Portugal,Pereira 2011,Yes,
+Caldeirão,H,OxA-2511,20530,270,Bone,AMS,Solutrean,Portugal,Zilhão 1997,Yes,
+Lapa do Picareiro,T,UGAMS-23726,20530,50,Charcoal,AMS,Proto-Solutrean,Portugal,Haws et al. 2019,Yes,
+Vale Boi,Rockshelter D2,Wk-26802,20570,158,Charcoal,AMS,Solutrean,Portugal,Cascalheira et al. 2012,Yes,
+Vale Boi,Rockshelter C4,Wk-26800,20620,160,Charcoal,AMS,Solutrean,Portugal,Cascalheira et al. 2012,Yes,
+Lapa do Picareiro,T,UGAMS-23722,20630,55,Charcoal,AMS,Proto-Solutrean,Portugal,Haws et al. 2019,Yes,
+Lapa do Picareiro,T4,Beta-229781,20700,100,Bone,AMS,Proto-Solutrean,Portugal,Haws et al. 2019,Yes,
+Lapa do Picareiro,T,UGAMS-23721,20710,55,Charcoal,AMS,Proto-Solutrean,Portugal,Haws et al. 2019,Yes,
+Vale Boi,Terrace 5,Wk-42830,20818,107,Charcoal,AMS,Proto-Solutrean,Portugal,Cascalheira et al. 2012,Yes,
+CPM III,Inferior,ICEN-541,21080,850,Charcoal,Standard C14,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,Yes,
+Lagar Velho,6,OxA-8420,21180,240,Charcoal,AMS,Proto-Solutrean,Portugal,"Zilhão and Trinkaus, 2002",Yes,
+Caldeirão,Fa Topo,ICEN-295,21200,2300,Charcoal,Standard C14,Solutrean,Portugal,Zilhão 1997,?,
+Lagar Velho,6,Sac-1561,21380,810,Bone,AMS,Proto-Solutrean,Portugal,"Zilhão and Trinkaus, 2002",Yes,
+Vale Boi,Slope 3,AA-63306,21420,170,Charcoal,AMS,Proto-Solutrean,Portugal,Cascalheira et al. 2012,Yes,
+Anecrial,2b (lareira),ICEN-964,21560,680,Charcoal,AMS,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,Yes,
+Anecrial,2b (lareira),OxA-5526,21560,220,Charcoal,AMS,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,Yes,
+Terra do Manuel,2s,ETH-6038,21770,210,Charcoal,Standard C14,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,Yes,
+Buraca Escura,2b (base),OxA-5524,21820,200,Bone,AMS,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,Yes,
+Vale Boi,Slope 3,Wk-16415,21830,195,Shell,AMS,Proto-Solutrean,Portugal,Cascalheira et al. 2012,Yes,Calcite and aragonite
+Lagar Velho,6,OxA-8418,22180,180,Charcoal,AMS,Proto-Solutrean,Portugal,"Zilhão and Trinkaus, 2002",Yes,
+Lagar Velho,1,OxA-10303,22390,280,Charcoal,AMS,Gravettian,Portugal,"Zilhão and Trinkaus, 2002",Yes,
+Lapa do Picareiro,T6,UGAMS-29379,22410,60,Charcoal,AMS,Terminal Gravettian,Portugal,Haws et al. 2019,Yes,
+Lagar Velho,ms,Wk-9256,22493,107,Charcoal,AMS,Gravettian,Portugal,"Zilhão and Trinkaus, 2002",Yes,
+Lapa do Picareiro,U,Beta-234373,22560,110,Charcoal,AMS,Terminal Gravettian,Portugal,Haws et al. 2019,Yes,
+Lapa do Picareiro,U,Beta-234374,22590,110,Charcoal,AMS,Terminal Gravettian,Portugal,Haws et al. 2019,Yes,
+Lapa do Picareiro,U,Beta-208222,22660,240,Charcoal,AMS,Terminal Gravettian,Portugal,Haws et al. 2019,Yes,
+Buraca Escura,2e(meio),OxA-5523,22700,240,Bone,AMS,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,Yes,
+CPM III,Inferior,SMU-2475,22710,350,Charcoal,Standard C14,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,Yes,
+Lagar Velho,ls,Beta-139361,22720,90,Bone,AMS,Gravettian,Portugal,"Zilhão and Trinkaus, 2002",Yes,
+Caldeirão,I,OxA-1940,22900,380,Bone,AMS,Solutrean,Portugal,Zilhão 1997,?,
+CPM III,Inferior,ICEN-428,23050,750,Charcoal,Standard C14,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,Yes,
+Lapa do Picareiro,T8,Wk-37656,23097,131,Charcoal,AMS,Terminal Gravettian,Portugal,Haws et al. 2019,Yes,
+Anecrial,1b-2a,ICEN-963,23450,1470,Charcoal,AMS,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,Yes,
+CPM III,Médio,ICEN-423,23490,280,Charcoal,Standard C14,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,No,
+Lapa do Picareiro,T6,UGAMS-29380,23850,60,Charcoal,AMS,Terminal Gravettian,Portugal,Haws et al. 2019,Yes,
+Lapa da Rainha,4,ICEN-789,25580,1820,Bone,Standard C14,Solutrean,Portugal,Zilhão 1997,No,
+CMP IIIS,Inferior,SMU-2667,34730,1890,Charcoal,Standard C14,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,No,
+Gato Preto,C,,36500,4500,Burnt chert,TL,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,No,
+Peña Capón,IV,Beta - 246878,21220,120,Tooth,AMS,Gravettian?,Central Iberia,Alcaraz-Castaño et al. 2013,Yes,
+Gato Preto,C,,40700,5600,Burnt chert,TL,Final Gravettian/Proto-Solutrean,Portugal,Zilhão 1997,No,
+Abauntz,f,GrN-21011,21600,210,Bone,C14,Solutrean,Northern Iberia,"Mazo and Utrilla, 1996",Yes,
+"Aguas, Las",C2,GrA-32756,16880,70,Bone,AMS,Upper Solutrean,Northern Iberia,"Rasines del Río, 2016",Yes,
+"Aguas, Las",C2,GrA-30321,17630,80,Bone,AMS,Upper Solutrean,Northern Iberia,"Rasines del Río, 2016",Yes,
+Aitzbitarte III,III,Ua-11150,18400,215,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 2011",Yes,
+Aitzbitarte III,III,Ua-24964,19230,230,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 2011",Yes,
+Aitzbitarte III,II,Ua-37959,19765,220,Bone,AMS,Gravettian/Solutrean,Northern Iberia,"Altuna, 2011",Yes,
+Aitzbitarte III,III,Ua-18463,19515,235,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 2011",Yes,
+Aitzbitarte III,III,Ua-37960,19400,210,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 2011",Yes,
+Aitzbitarte III,III,Ua-11147,20405,130,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 2011",Yes,
+Aitzbitarte III,III,Ua-11149,20290,260,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 2011",Yes,
+Aitzbitarte III,VI,Ua-1917,21230,130,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 1992",Yes,
+Aitzbitarte III,III,Ua-24963,22580,295,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 2011",Yes,
+Aitzbitarte III,IV,Ua-24965,22420,290,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 2011",Yes,
+Aitzbitarte III,V,Ua-2243,23230,330,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 1992",Yes,
+Aitzbitarte III,VI,Ua-2628,23830,345,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 1992",Yes,
+Aitzbitarte III,V,Ua-2626,24545,415,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 1992",Yes,
+Aitzbitarte III,VI,Ua-2627,24635,475,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 1992",Yes,
+Aitzbitarte III,VI,Ua-2245,24920,410,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 1992",Yes,
+Aitzbitarte III,V,I-15208,24910,770,Bone,C14,Gravettian,Northern Iberia,"Altuna, 1992",Yes,
+Aitzbitarte III,VI,Ua-2245,24920,410,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 1992",Yes,
+Aitzbitarte III,IV,Ua-24965,22420,290,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 1992",Yes,
+Aitzbitarte III,VI,Ua-2244,25380,430,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 1992",Yes,
+Aitzbitarte III,IV,Ua-11146,24240,365,Bone,AMS,Gravettian,Northern Iberia,"Altuna, 2011",Yes,
+Aitzbitarte IV,IV base 14N -160,GrN-5993,17950,150,Bone,C14,Upper Solutrean,Northern Iberia,"Altuna, 1972",Yes,
+Altamira,7med,GrA-30325,19060,90,Bone,AMS,Upper Solutrean,Northern Iberia,"Lasheras et al., 2012",Yes,
+Altamira,7inf,GrA-30324,18750,100,Bone,AMS,Upper Solutrean,Northern Iberia,"Lasheras et al., 2012",Yes,
+Altamira,7sup,GrA-32761,19630,80,Bone,AMS,Upper Solutrean,Northern Iberia,"Lasheras et al., 2012",Yes,
+Altamira,6,GrA-32760,17200,90,Bone,AMS,Upper Solutrean,Northern Iberia,"Lasheras et al., 2012",Yes,
+Altamira,8,GrA-32765,21910,90,Bone,AMS,Gravettian,Northern Iberia,"De las Heras et al., 2013",Yes,
+Altamira,8,GrA-27739,21930,100,Bone,AMS,Gravettian,Northern Iberia,"De las Heras et al., 2013",Yes,
+Amalda,IV,I-11435,16090,240,?,C14,Upper evolved Solutrean,Northern Iberia,"Altuna, 1990",No,"No (Soto-Barreiro, 2003)"
+Amalda,IV,I-11428,16200,380,?,C14,Upper evolved Solutrean,Northern Iberia,"Altuna, 1990",No,"No (Soto-Barreiro, 2003)"
+Amalda,IV,I-11355,17580,440,?,C14,Upper evolved Solutrean,Northern Iberia,"Altuna, 1990",Yes,
+Amalda,V,I-11372,17880,390,?,C14,Gravettian,Northern Iberia,"Altuna, 1990",No,"No (too young, Bradtmöller, 2014 )"
+Amalda,V,I-11663,19000,340,?,C14,Gravettian,Northern Iberia,"Altuna, 1990",No,"No (Soto-Barreiro, 2003)"
+Antoliñako Koba,Lmc,Beta-230284,19020,120,Bone,AMS,Upper Solutrean,Northern Iberia,"Aguirre, 2013",Yes,
+Antoliñako Koba,Lmc,GrN-23785,19280,120,Bone,C14,Upper Solutrean,Northern Iberia,"Aguirre, 2013",Yes,
+Arlanpe,III,Beta-238178,17060,80,Bone,AMS,Upper Solutrean,Northern Iberia,"Ríos Garáizar et al, 2008",No,"No. Dating from reworked context, postquen for layer II (Ríos Garáizar et al., 2008:99-101"
+Arlanpe,II,Beta-261389,17160,70,Bone,AMS,Upper Solutrean,Northern Iberia,"Ríos et al., 2014",Yes,
+Arlanpe,II,Beta-261388,17260,70,Bone,AMS,Upper Solutrean,Northern Iberia,"Ríos et al., 2014",Yes,
+Askondo,4,Beta-316473,17490,90,Burned bone,C14,Upper Solutrean,Northern Iberia,"García-Ibaibarriaga et al., 2015",Yes,
+Bolinkoba,2 sup,Beta-302981,21020,90,Bone,AMS,Gravettian,Northern Iberia,"Iriarte-Chiapusso and Arrizabalaga, 2015",Yes,
+"Buxu, El",3,GrN-19386,16730,500,?,C14,Final Solutrean,Northern Iberia,"Menéndez, 1999",Yes,
+"Caldas, Las",4 (pasillo),Ly-2422,17050,290,Bone,C14,"Final Solutrean (Archaic Magdalenian following Aura et al., 2012)",Northern Iberia,"Corchón et al., 1999",Yes,
+"Caldas, Las",3 (pasillo),Ly-2421,18250,300,Bone,AMS,"Upper Solutrean (Archaic Magdalenian following Aura et al., 2012)",Northern Iberia,"Jordá et al., 1992",Yes,
+"Caldas, Las",XIVc (Sala 2),Ua-4302,17380,215,Bone,AMS,Upper Solutrean (Archaic Magdlaenian following Aura et al 2012),Northern Iberia,"Corchón Rodríguez, 1994",Yes,
+"Caldas, Las",11 (Sala 1),Ua-15316,18305,295,Bone,AMS,Upper Solutrean,Northern Iberia,"Corchón Rodríguez, 1999",Yes,
+"Caldas, Las",15 (Sala 1),Ua-15318,20250,235,Charcoal,AMS,Middle Solutrean,Northern Iberia,"Corchón Rodríguez, 1995",Yes,
+"Caldas, Las",9 (pasillo),Ly-2424,19390,260,Bone,C14,Upper Solutrean,Northern Iberia,"Corchón Rodríguez, 1999",Yes,
+"Caldas, Las",7 (pasillo),Ly-2423,18310,260,Bone,AMS,Upper Solutrean,Northern Iberia,"Corchón Rodríguez, 1999",Yes,
+"Caldas, Las",18 (Topera),Ly-2429,19000,280,Bone,C14,Middle Solutrean,Northern Iberia,"Corchón Rodríguez, 1999",Yes,
+"Caldas, Las",12t (top pasillo),Ly-2425,19030,320,Bone,C14,Middle Solutrean,Northern Iberia,"Corchón Rodríguez, 1999",Yes,
+"Caldas, Las",12b (base pasillo),Ly-2426,19480,260,Bone,C14,Middle Solutrean,Northern Iberia,"Corchón Rodríguez, 1999",Yes,
+"Caldas, Las",16 (Topera),Ly-2428,19510,330,Bone,C14,Middle Solutrean,Northern Iberia,"Corchón Rodríguez, 1999",Yes,
+"Caldas, Las",9 (Sala I),Ua-15315,17945,370,Bone,AMS,Upper Solutrean,Northern Iberia,"Corchón Rodríguez, 1999",Yes,
+"Canes, Los",2b,AA12165,16500,200,?,AMS,Solutrean?/Magdalenian?,Northern Iberia,"Arias Cabal and Pérez Suárez, 1995",Yes,
+"Castillo, El",10,Beta-242619,19260,90,Bone,AMS,Middle/Upper Solutrean,Northern Iberia,"Bernaldo de Quirós et al., 2015",Yes,
+"Castillo, El",10,GifA-98154,19140,230,Charcoal,AMS,Middle/Upper Solutrean,Northern Iberia,"González-Sáinz, 2007",Yes,
+"Castillo, El",10,OxA-971,16850,220,Bone,AMS,Middle/Upper Solutrean,Northern Iberia,"Sommer et al., 2008",Yes,
+Chaves,C1,GrN-12681,19700,310,Charcoal,C14,Upper/Upper evolved Solutrean,Northern Iberia,"Utrilla, 1995",Yes,
+"Chufín, Cueva",I,CSIC-258,17420,200,Bone,C14,Upper Solutrean,Northern Iberia,"Soto Barreiro, 2003",Yes,"Yes (Soto Barreiro, 2003)"
+"Cobrante, Cueva de",3,GrA-22438,18540,70,Bone,AMS,Solutrean,Northern Iberia,"Rasines del Río et al., 2009",Yes,
+"Cobrante, Cueva de",4,GrA-22439,18260,70,Bone,AMS,Solutrean,Northern Iberia,"Rasines del Río et al., 2009",Yes,
+Cova Rosa,I,OxA-31799,16800,80,Bone,AMS,Solutrean,Northern Iberia,"Álvarez Fernández et al., 2019",Yes,
+Cova Rosa,I,OxA-31800,16820,90,Bone,AMS,Solutrean,Northern Iberia,"Álvarez Fernández et al., 2019",Yes,
+Cova Rosa,II,OxA-31801,18550,100,Bone,AMS,Upper Solutrean,Northern Iberia,"Álvarez Fernández et al., 2019",Yes,
+"Cuco, El",III,GrNA-32097,23400,210,Bone,AMS,Gravettian,Northern Iberia,"de la Peña Alonso, 2009",Yes,
+Cueto de la Mina,F,Ua-3588,17545,205,Bone,AMS,Middle Solutrean,Northern Iberia,"Soto-Barreiro, 2003",No,"Problematic (Muñoz Ibánez, 2000:38)"
+Cueto de la Mina,E,Ua-3586,19110,205,Bone,C14,Upper Solutrean,Northern Iberia,"Rasilla y Llana, 1994",No,"Problematic (Muñoz Ibánez, 2000:38)"
+Cueto de la Mina,E,?,19700,500,?,?,Upper Solutrean,Northern Iberia,Alvarez-Laó and García 2010,No,"Problematic (Muñoz Ibánez, 2000:38) No (SD)"
+Ekain,VIII,I-13005,20900,450,Bone,C14,Gravettian,Northern Iberia,"Altuna, 1984",Yes,
+Ermittia,V,Ua-4521,17725,165,Bone,AMS,Solutrean,Northern Iberia,"Esparza and Mujika, 1999",Yes,
+Ermittia,V,Ua-4522,21185,295,Bone,AMS,Solutreo-Gravettian,Northern Iberia,"Esparza and Mujika, 1999",Yes,
+Fuente del Salín,II,GrN-18574,22340,510,Charcoal,C14,Gravettian,Northern Iberia,"Zilhao, 2006",No,"Problematic (Utrilla, 2002:92). No (SD)"
+Fuente del Trucho,UA1 0.75-0.95,Beta-72393,19060,80,Bone,AMS,Solutrean (proto?),Northern Iberia,"Utrilla, 2010",Yes,
+"Garma, La",F,AA-45566,21650,760,Bone,C14,Gravettian,Northern Iberia,"de la Peña Alonso, 2009",Yes,
+"Garma, La",E,TO-11697,22200,170,Bone,C14,Gravettian,Northern Iberia,"de la Peña Alonso, 2009",Yes,
+"Gato, Cueva del",2,GrA-30684,18850,100,Charcoal,AMS,not clear: Archaic Magdalenian?,Northern Iberia,"Utrilla et al., 2012",No,Problematic: non-diagnostic materials
+"Gato, Cueva del",2,GrA-22503,18260,130,Charcoal,AMS,not clear: Archaic Magdalenian?,Northern Iberia,"Utrilla et al., 2012",No,Problematic: non-diagnostic materials
+Hornos de la Peña,C,BM-1881,18230,510,Hueso,C14,Solutrean?,Northern Iberia,"Straus, 1992",Yes,
+Hornos de la Peña,C,BM-1882,19950,300,Hueso,C14,Solutrean?,Northern Iberia,"Straus, 1992",Yes,
+Hornos de la Peña,D,BM-1883,20930,370,Bone,C14,Gravettian,Northern Iberia,"Straus, 1992",Yes,
+Lezetxiki,IIIa,I-6144,19340,780,Bone,C14,Aurignacian,Northern Iberia,"Altuna, 1972",Yes,
+"Linar , El",3,GrA-27746,19680,90,Bone,AMS,Solutrean,Northern Iberia,"Rasines del Río, 2016",Yes,
+"Mirón, El",119,GX-25858,16960,160,Bone,AMS,Solutrean,Northern Iberia,"Straus et al, 2011",No,Stratigraphically incoherent
+"Mirón, El",119.2,GX-32656,16320,160,Bone,AMS,Solutrean,Northern Iberia,"Straus et al, 2011",Yes,
+"Mirón, El",127,UG-7216,19230,50,Charcoal,AMS,Solutrean,Northern Iberia,"Straus et al., 2013",Yes,
+"Mirón, El",121,GX-32655,18390,300,Bone,C14,Upper Solutrean,Northern Iberia,"Straus, 2007",Yes,
+"Mirón, El",126,GX-24471,18950,350,Bone,C14,Upper Solutrean,Northern Iberia,"Straus, 2002",Yes,
+"Mirón, El",125,GX-24470,18980,360,Bone,C14,Upper Solutrean,Northern Iberia,"Straus, 2002",Yes,
+"Mirón, El",313,GX-31194,17400,270,Bone,AMS?/C14?,"Upper Solutrean (Archaic Magdalenian in Aura et al., 2012)",Northern Iberia,"Straus et al., 2008",Yes,
+"Mirón, El",319,GX-25858,16960,80,Charcoal,AMS,Solutrean/Lower Magdalenian,Northern Iberia,"Straus and González Morales, 2003",Yes,
+"Morín, Cueva",3,Poz-36374,18270,130,Bone,AMS,Upper Solutrean,Northern Iberia,"Weniger et al., 2019",Yes,
+"Morín, Cueva",5 inf,SI-953,20124,340,Charcoal,C14,Gravettian,Northern Iberia,"Maíllo Fernández, 2003",Yes,
+Praileaitz,IX,Beta-341898,17530,70,Bone,AMS,Solutrean,Northern Iberia,Peñalver et al 2017,Yes,
+Praileaitz,V,Beta-162879,17760,70,Bone,AMS,Solutrean,Northern Iberia,Peñalver et al 2017,Yes,
+Praileaitz,V,GrA-24687,19330,150,?,AMS,Solutrean,Northern Iberia,Peñalver et al 2017,Yes,
+"Riera, La",17,GaK-6445,16900,200,charcoal,C14,Upper Solutrean/Lower Magdalenian,Northern Iberia,"Straus and Clark, 1986",Yes,
+"Riera, La",1,Ly-1783,20360,450,bone,C14,Lower Solutrean?,Northern Iberia,"Straus, 1986",Yes,
+"Riera, La",20,GaK-6980,17160,440,charcoal,C14,,Northern Iberia,"Straus, 1986",Yes,
+"Riera, La",15,UCR-1272A,17225,350,bone,C14,Upper Solutrean/Badegoulian?,Northern Iberia,"Straus, 1986",Yes,
+"Riera, La",12,GaK-6446,17210,350,bone,C14,Upper Solutrean/Badegoulian?,Northern Iberia,Straus and Clark 1986,Yes,
+"Riera, La",26,BM-1739R,21100,420,bone,C14,,Northern Iberia,"Burleigh et al., 1982",Yes,
+"Riera, La",15,Gak-6449,15600,570,charcoal,C14,Upper Solutrean/Badegoulian?,Northern Iberia,"Straus, 1986",No,No (Rasilla Vives and Llana Rodriguez 1994) (SD)
+"Riera, La",14,UCR-1271A,15690,310,bone,C14,Upper Solutrean/Badegoulian?,Northern Iberia,"Straus, 1986",No,No (Rasilla Vives and Llana Rodriguez 1994)
+"Riera, La",8,Gak-6450,15860,330,charcoal,C14,Upper Solutrean,Northern Iberia,"Straus, 1986",No,No (Rasilla Vives and Llana Rodriguez 1994)
+"Riera, La",17,Gak-6444,17070,230,Charcoal,C14,Upper Solutrean/Lower Magdalenian,Northern Iberia,"Straus and Clark, 1986",No,"problematic (Muñoz Ibáñez, 2000:38)"
+"Riera, La",16,Gak-6983,18200,610,Charcoal,C14,Upper Solutrean/Badegoulian?,Northern Iberia,"Straus, 1986",Yes,
+"Riera, La",1,UCR-1270A,19620,390,Bone,C14,Gravettian?/Solutrean?,Northern Iberia,"Straus, 1986",Yes,
+"Riera, La",10,Gak-6447,19820,390,Charcoal,C14,Solutrean/Badegoulian,Northern Iberia,"Straus, 1986",No,"problematic (Muñoz Ibáñez, 2000:38) (SD)"
+"Riera, La",8,GaK-6981,20690,810,Charcoal,C14,Upper Solutrean,Northern Iberia,"Straus, 1986",No,problematic (Soto 2001:12) (SD)
+"Riera, La",1,BM-1739,20860,410,Bone,C14,Gravettian?/Solutrean?,Northern Iberia,"Straus, 1986",Yes,
+"Riera, La",4,GaK-6984,20970,620,Charcoal,C14,Upper Solutrean,Northern Iberia,"Straus, 1986",No,problematic (Soto 2001:12) (SD)
+"Ruso, El",III,Beta-70810,16410,210,Bone,C14,Upper Solutrean/Upper Evolved Solutrean,Northern Iberia,"Muñoz Fernández and Serna Gancedo, 1999",Yes,
+"Ruso, El",Iva,Beta-810,16410,210,,C14,Solutrean,Northern Iberia,"Yravedra et al, 2010.",Yes,
